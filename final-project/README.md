@@ -32,6 +32,9 @@
 ## Используемые библиотеки
 
 pandas
+
 phik, sklearn, xgboost, lightgbm, hyperopt
+
 math, numpy
+
 matplotlib, seaborn
