@@ -28,3 +28,10 @@
 
 Во всех файлах столбец `customerID` содержит код клиента.
 Информация о договорах актуальна на 1 февраля 2020.
+
+## Используемые библиотеки
+
+pandas
+phik, sklearn, xgboost, lightgbm, hyperopt
+math, numpy
+matplotlib, seaborn
