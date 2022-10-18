@@ -18,6 +18,6 @@
 - pandas, math, numpy, statsmodels
 - phik, matplotlib, seaborn
 
-## Теги
+## Ключевые слова
 
 `временные ряды` `XGBRegressor` `CatBoostRegressor` `lightgbm` `hyperopt`
