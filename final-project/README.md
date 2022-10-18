@@ -37,4 +37,4 @@
 
 ## Ключевые слова
 
-`временные ряды` `xgboost` `CatBoostRegressor` `lightgbm` `hyperopt`
+`xgboost` `CatBoostRegressor` `lightgbm` `hyperopt`
