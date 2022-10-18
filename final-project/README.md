@@ -31,7 +31,10 @@
 
 ## Используемые библиотеки
 
-- pandas
-- math, numpy
-- phik, sklearn, xgboost, lightgbm, hyperopt
+- pandas, math, numpy
+- phik, sklearn
 - matplotlib, seaborn
+
+## Ключевые слова
+
+`временные ряды` `xgboost` `CatBoostRegressor` `lightgbm` `hyperopt`
