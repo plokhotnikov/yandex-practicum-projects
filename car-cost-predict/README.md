@@ -17,6 +17,6 @@
 
 ## Ключевые слова
 
-`временные ряды` `тренд` `склользящее среднее` `сезонность` 
+`числнные методы` `грдиентный бустинг` 
 
 `XGBRegressor` `CatBoostRegressor` `lightgbm` `hyperopt` `xgboost` `GridSearchCV`
