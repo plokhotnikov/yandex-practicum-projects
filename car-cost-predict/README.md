@@ -17,6 +17,6 @@
 
 ## Ключевые слова
 
-`числнные методы` `грдиентный бустинг` 
+`численные методы` `градиентный бустинг` 
 
 `XGBRegressor` `CatBoostRegressor` `lightgbm` `hyperopt` `xgboost` `GridSearchCV`
