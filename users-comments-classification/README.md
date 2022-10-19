@@ -7,7 +7,7 @@
 
 ## Используемые библиотеки
 
-- pandas, scipy, numpy, statsmodels, re, matplotlib, seaborn
+- pandas, scipy, numpy, re, matplotlib, seaborn
 - nltk, sklearn, hyperopt, transformers, torch
 
 ## Ключевые слова
