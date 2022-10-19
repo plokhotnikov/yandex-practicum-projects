@@ -12,4 +12,4 @@ pandas, scipy, numpy, sklearn, matplotlib, seaborn
 
 `машинное обучение` `разработка бизнес-модели` `бутстреп` `регрессия`
 
-`hyperopt` `GridSearchCV`
+`hyperopt` `GridSearchCV` `RegressorChain`
