@@ -6,8 +6,7 @@
 
 ## Используемые библиотеки
 
-- pandas, scipy, numpy, statsmodels, time
-- sklearn, category_encoders, matplotlib, lightgbm
+pandas, scipy, numpy, sklearn, matplotlib, seaborn
 
 ## Ключевые слова
 
