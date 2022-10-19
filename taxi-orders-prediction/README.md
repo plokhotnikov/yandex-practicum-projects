@@ -13,4 +13,5 @@
 ## Ключевые слова
 
 `временные ряды` `тренд` `склользящее среднее` `сезонность` 
+
 `XGBRegressor` `CatBoostRegressor` `lightgbm` `hyperopt`
